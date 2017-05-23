@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Helvetica Neue", "Helvetica", "sans-serif";
+  margin: 0;
+
+}
+
+#app-container {
+  background-color: black;
+}
+
+.jumbotron {
+	margin: 0px;
+	padding: 0;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.jumbotron img {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	text-align: center;
+	display: block;
+  background-color: black;
+}
+
+// #starting {
+// 	margin-bottom: 0;
+// }
+.birds-jumbo img {
+	position: relative;
+
+}
+
+.my-name {
+	position: absolute;
+	top: 30%;
+	right: 60%;
+	color: black;
+	/*background-color: rgba(255, 255, 255, 0.3);*/
+}
+
+.my-name h2 {
+color: black;
+font-style: italic;
+
+
+}
