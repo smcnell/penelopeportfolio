@@ -41,6 +41,7 @@ a:hover {
 .jumbotron {
   padding-top:0px !important;
   padding-bottom:0px !important;
+  margin-bottom:0px !important;
 	margin: 0px;
 	padding: 0;
 	background-color: black;
@@ -96,6 +97,7 @@ font-style: italic;
 
 @media only screen and (min-width: 991px) {
     .column {
+        margin-left: 50px;
         vertical-align: top;
         display: inline-block;
         width: 45%;
